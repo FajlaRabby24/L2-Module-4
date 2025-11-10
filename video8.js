@@ -1,0 +1,1 @@
+// * selectionSort([5, 3, 8, 4, 2])
